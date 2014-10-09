@@ -311,35 +311,12 @@
                             <a href="#"><i class="fa fa-sitemap fa-fw"></i> Candidates<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a class="active" href="candidates.jsp">Java</a>
+                                    <a class="active" href="cannew.jsp">New</a>
                                 </li>
                                 <li>
-                                    <a href="candidates.jsp">Oracle Apps</a>
+                                    <a href="candidates.jsp">List</a>
                                 </li>
-                                <li>
-                                    <a href="candidates.jsp">Testing</a>
-                                </li>
-                                <li>
-                                    <a href="candidates.jsp">Mobile/UI</a>
-                                </li>
-                                <li>
-                                    <a href="#">Third Level <span class="fa arrow"></span></a>
-                                    <ul class="nav nav-third-level">
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                    </ul>
-                                    <!-- /.nav-third-level -->
-                                </li>
+                                
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>

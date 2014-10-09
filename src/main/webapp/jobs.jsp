@@ -53,6 +53,17 @@
                                 </div>
 
                                 <div class="form-group">
+                                    <label class="col-md-2 control-label" for="textinput">End Client</label>  
+                                    <div class="col-md-3">
+                                        <input id="textinput" name="textinput" placeholder="placeholder" class="form-control input-md" type="text">
+                                    </div>
+                                    <label class="col-md-2 control-label" for="textinput">Client Location</label>  
+                                    <div class="col-md-4">
+                                        <input id="textinput" name="textinput" placeholder="placeholder" class="form-control input-md" type="text">
+                                    </div>
+                                </div>
+                                
+                                <div class="form-group">
                                     <label class="col-md-2 control-label" for="textinput">Tags</label>  
                                     <div class="col-md-3">
                                         <input id="textinput" name="textinput" placeholder="placeholder" class="form-control input-md" type="text">
